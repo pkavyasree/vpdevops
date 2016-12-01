@@ -1,0 +1,7 @@
+ansible
+puppet 
+chef
+aws
+docker
+vagrant
+
